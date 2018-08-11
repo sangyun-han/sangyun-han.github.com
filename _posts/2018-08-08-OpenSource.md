@@ -13,10 +13,12 @@ redirect_from:
 ## Network
 ### SDN
 - [ONOS(Open Network Operating System)](https://onosproject.org/)
+  - A distributed SDN controller.
 - OpenDaylight
 - Mininet
 - loxigen
-- OpenVirteX
+- [OpenVirteX](https://ovx.onlab.us/)
+  - OpenVirteX(OVX) is a network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 ### Framework
 - Netty
@@ -27,11 +29,13 @@ redirect_from:
 
 ## Distributed System
 - Hazelcast
-- Atomix
+- [Atomix](https://atomix.io/)
   - A reactive java framework for building fault-tolerance distributed system
 - Zookeeper
-- etcd
-- CoreOS
+- [etcd](https://coreos.com/etcd/)
+  - etcd is a distributed key-value store that provides a reliable way to store data across a cluster of machines.
+- [CoreOS](https://coreos.com/)
+  - CoreOS is open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments, while focusing on automation, ease of application deployment, security, reliability and scalability.
 
 ---
 
@@ -64,3 +68,4 @@ redirect_from:
 - FD.io - VPP
 - Cilium
 - Skydive-project
+- Seesaw
