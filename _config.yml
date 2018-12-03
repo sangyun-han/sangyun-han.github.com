@@ -27,7 +27,7 @@ title: Hello World
 description: "I'm Sangyun Han."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
+  name: Sangyun Han
   job_title:
   location:
   email: sangyun628@gmail.com
@@ -36,16 +36,10 @@ author:
       url:
     - name: github
       url: https://github.com/sangyun-han
-    - name: instagram
-      url:
     - name: linkedin
       url: https://www.linkedin.com/in/sangyun-han/
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url:
-    - name: vk
-      url:
+    - name: linkedin
+      url: https://www.slideshare.net/kairosfox
 home:
   section1: <h1>Hello World</h1>
   section2: <h2>I'm Sangyun Han. Welcome to my blog</h2>
